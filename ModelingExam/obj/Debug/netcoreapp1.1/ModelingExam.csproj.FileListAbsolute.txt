@@ -1,0 +1,10 @@
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\bin\Debug\netcoreapp1.1\ModelingExam.deps.json
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\bin\Debug\netcoreapp1.1\ModelingExam.runtimeconfig.json
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\bin\Debug\netcoreapp1.1\ModelingExam.runtimeconfig.dev.json
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\bin\Debug\netcoreapp1.1\ModelingExam.dll
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\bin\Debug\netcoreapp1.1\ModelingExam.pdb
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\obj\Debug\netcoreapp1.1\ModelingExam.csprojResolveAssemblyReference.cache
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\obj\Debug\netcoreapp1.1\ModelingExam.csproj.CoreCompileInputs.cache
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\obj\Debug\netcoreapp1.1\ModelingExam.AssemblyInfo.cs
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\obj\Debug\netcoreapp1.1\ModelingExam.dll
+C:\Users\Antin\Desktop\EPAM\ModelingExam\ModelingExam\obj\Debug\netcoreapp1.1\ModelingExam.pdb
